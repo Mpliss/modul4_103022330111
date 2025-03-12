@@ -29,48 +29,48 @@ public class kodeProduk
     }
 }
 
-//public class FunLaptop
-//{
-//    public enum State { Quiet, Balance, Turbo, Performance}
-//    private State currentState;
+public class FunLaptop
+{
+    public enum State { Quiet, Balance, Turbo, Performance }
+    private State currentState;
 
-//    public void Fun()
-//    {
-//        State state = State.Quiet;
-//        String[] status = { "Quiet", "Balance", "Performance", "Turbo");
-//        while (state != State.Quiet)
-//        {
-//            Console.WriteLine("\n" + "Fun mode " + status[(int)state] + "\n");
-//            Console.WriteLine("Masukan perintah: ");
-//            String command = Console.ReadLine();
+    public void Fun()
+    {
+        State state = State.Quiet;
+        String[] status = { "Quiet", "Balance", "Performance", "Turbo");
+        while (state != State.Quiet)
+        {
+            Console.WriteLine("\n" + "Fun mode " + status[(int)state] + "\n");
+            Console.WriteLine("Masukan perintah: ");
+            String command = Console.ReadLine();
 
-//            switch (state)
-//            {
-//                case State.Quiet:
-//                   if(command == "Mode up")
-//                    {
-//                        state = State.Balance;
-//                    }
-//                    else if(command == "Mode down")
-//                    {
-//                        Program.Main();
-//                    }
-//                    break;
-//                case State.Balance:
-//                    if (command == "Mode up")
-//                    {
-//                        state = State.Performance;
-//                    }
-//                    else if (command == "Mode down")
-//                    {
-//                        Program.Main();
-//                    }
-//                    break;
-//            }
-//        }
-//    }
+            switch (state)
+            {
+                case State.Quiet:
+                    if (command == "Mode up")
+                    {
+                        state = State.Balance;
+                    }
+                    else if (command == "Mode down")
+                    {
+                        Program.Main();
+                    }
+                    break;
+                case State.Balance:
+                    if (command == "Mode up")
+                    {
+                        state = State.Performance;
+                    }
+                    else if (command == "Mode down")
+                    {
+                        Program.Main();
+                    }
+                    break;
+            }
+        }
+    }
 
-//}
+}
 
 
 public class Program
