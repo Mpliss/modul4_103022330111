@@ -1,0 +1,14 @@
+D:\KPL\modul4_103022330111\obj\Debug\net8.0\modul4_103022330111.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL\modul4_103022330111\obj\Debug\net8.0\modul4_103022330111.AssemblyInfoInputs.cache
+D:\KPL\modul4_103022330111\obj\Debug\net8.0\modul4_103022330111.AssemblyInfo.cs
+D:\KPL\modul4_103022330111\obj\Debug\net8.0\modul4_103022330111.csproj.CoreCompileInputs.cache
+D:\KPL\modul4_103022330111\bin\Debug\net8.0\modul4_103022330111.exe
+D:\KPL\modul4_103022330111\bin\Debug\net8.0\modul4_103022330111.deps.json
+D:\KPL\modul4_103022330111\bin\Debug\net8.0\modul4_103022330111.runtimeconfig.json
+D:\KPL\modul4_103022330111\bin\Debug\net8.0\modul4_103022330111.dll
+D:\KPL\modul4_103022330111\bin\Debug\net8.0\modul4_103022330111.pdb
+D:\KPL\modul4_103022330111\obj\Debug\net8.0\modul4_103022330111.dll
+D:\KPL\modul4_103022330111\obj\Debug\net8.0\refint\modul4_103022330111.dll
+D:\KPL\modul4_103022330111\obj\Debug\net8.0\modul4_103022330111.pdb
+D:\KPL\modul4_103022330111\obj\Debug\net8.0\modul4_103022330111.genruntimeconfig.cache
+D:\KPL\modul4_103022330111\obj\Debug\net8.0\ref\modul4_103022330111.dll
